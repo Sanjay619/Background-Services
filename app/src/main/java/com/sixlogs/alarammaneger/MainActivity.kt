@@ -30,7 +30,7 @@ class MainActivity : AppCompatActivity() {
 
 
 
-
+    // test
     fun onServiceStart(view: android.view.View) {
         setAlaramManeger()
     }
